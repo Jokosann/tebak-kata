@@ -47,7 +47,7 @@ function App() {
           </motion.div>
         </div>
       )}
-      <section className="max-w-7xl mx-auto px-4 py-12">
+      <section className="max-w-7xl mx-auto px-4 pb-12 pt-12">
         <h1 className="relative font-bold text-6xl text-slate-600 mx-auto w-fit">
           tebak kata🚀
           <span className="absolute -top-3 right-14 text-3xl rotate-12 text-rose-500">a-z</span>

@@ -11,16 +11,6 @@ export const dataQuest = [
   },
   {
     quest: {
-      one: 'f - u - c - k',
-      two: 'y - o - u',
-    },
-    answer: {
-      text: 'fuck you',
-      hukum: "bid'ah",
-    },
-  },
-  {
-    quest: {
       one: 'o - s - h - t - a - l',
     },
     answer: {
@@ -54,7 +44,7 @@ export const dataQuest = [
     },
     answer: {
       text: 'mengurus jenazah',
-      hukum: 'wajib kifayah',
+      hukum: 'wajib',
     },
   },
   {
